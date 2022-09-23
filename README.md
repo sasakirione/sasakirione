@@ -1,4 +1,10 @@
-### Hi there 👋
+[![Twitter: sasakirione2](https://img.shields.io/twitter/follow/sasakirione2?style=social)](https://twitter.com/sasakirione2)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sasakirione&layout=compact&theme=dracula)
+
+## About Me
+ - すきな言語：JVM系
+ - よく使うパブリッククラウド：GCP
 
 <!--
 **sasakirione/sasakirione** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

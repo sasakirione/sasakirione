@@ -5,8 +5,8 @@
 ## About Me
  - すきな言語：JVM系
  - よく使うパブリッククラウド：GCP
- - やってみたい言語：Scala
- - やってみたい技術：IaC、スクラム
+ - やってみたい言語：Scala, Rust
+ - やってみたい技術：IaC, Scrum
 
 <!--
 **sasakirione/sasakirione** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -3,10 +3,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sasakirione&layout=compact&theme=dracula)
 
 ## About Me
- - すきな言語：JVM系
- - よく使うパブリッククラウド：GCP
- - やってみたい言語：Scala, Rust
- - やってみたい技術：IaC, Scrum
+ - Favorite language：JVM系
+ - Favorite public cloud：GCP
+ - Interest：IaC, Scrum
 
 ## Disclaimer / おことわり
 The public repositories contained within this codebase, unless otherwise specified, are copyrighted to me personally and follow the MIT License. 

@@ -3,7 +3,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sasakirione&layout=compact&theme=dracula)
 
 ## About Me
- - Favorite language：JVM language (especially Kotlin)
+ - Favorite language：JVM language (especially Kotlin), .NET
  - Favorite public cloud：GCP
  - Interest：Platform Engineering, Scrum
 
